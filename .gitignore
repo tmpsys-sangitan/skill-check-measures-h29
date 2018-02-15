@@ -1,0 +1,17 @@
+*.Hbp
+*.hws
+*.tws
+*.hws
+*.pgs
+*.tps
+*.nav
+*.hsf
+*.txt
+*.hwp
+*.h
+*Debug*/
+Release
+t1620.c
+sbrk.c
+resetprg.c
+dbsct.c
